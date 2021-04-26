@@ -1,0 +1,45 @@
+---
+course_id: 16-540-internal-flows-in-turbomachines-spring-2006
+layout: course_section
+menu:
+  leftnav:
+    identifier: 9276d82b9dde1ca776e5c376892b75c8
+    name: Calendar
+    weight: 20
+title: Calendar
+type: course
+uid: 9276d82b9dde1ca776e5c376892b75c8
+
+---
+
+The calendar of the class is presented below. Six major topics are covered in twenty-five lectures. For each topic, the instructor is given. EG refers to Prof. Edward Greitzer, and CT refers to Dr. Choon Tan.
+
+| LEC # | TOPICS | KEY DATES |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**I. Structure and content of the course, introduction to flow regimes \[EG, CT\]**{{< /td-colspan >}} |||
+| 1 |  {{< br >}}{{< br >}} _Course introduction_ {{< br >}}{{< br >}} Learning objectives and measurable outcomes for the course {{< br >}}{{< br >}} Discussion of prerequisites {{< br >}}{{< br >}} Conduct of the course {{< br >}}{{< br >}} Purpose and development of concept questions, "what is a concept question" {{< br >}}{{< br >}} Concepts of modeling: Utility, levels of fidelity {{< br >}}{{< br >}}  | &nbsp; |
+| {{< td-colspan 3 >}}**II. Some useful basic ideas \[EG\]**{{< /td-colspan >}} |||
+| 2-3 |  {{< br >}}{{< br >}} _Basic ideas_ {{< br >}}{{< br >}} Pressure fields and streamline curvature: Equations of motion in natural coordinates {{< br >}}{{< br >}} Upstream influence in turbomachines {{< br >}}{{< br >}} Applications of the integral forms of the equations of motion; control volume description of fluid machinery and propulsion systems, applications {{< br >}}{{< br >}} Features of boundary layers in ducts and channels {{< br >}}{{< br >}} Inflow and outflow to fluid devices: The asymmetry of real fluid motions {{< br >}}{{< br >}}  | &nbsp; |
+| {{< td-colspan 3 >}}**III. Vorticity and circulation \[EG\]**{{< /td-colspan >}} |||
+| 4 |  {{< br >}}{{< br >}} _Introduction - Useful concepts_ {{< br >}}{{< br >}} Definition of vorticity {{< br >}}{{< br >}} Perspective on utility of the concepts {{< br >}}{{< br >}} Kinematics of vorticity; vortex lines and vortex tubes; behavior of vortex lines at a solid surface {{< br >}}{{< br >}}  | &nbsp; |
+| 5-6 |  {{< br >}}{{< br >}} _Dynamics of vorticity_ {{< br >}}{{< br >}} Vorticity changes in inviscid and viscous, incompressible and compressible fluids, with uniform and non-uniform density, with conservative and non-conservative body forces. Connection with rigid body dynamics. Applications to secondary flow in bends and turbomachinery blade rows, horseshoe vortices. {{< br >}}{{< br >}}  | Concept quiz 1 |
+| 7 |  {{< br >}}{{< br >}} _Circulation changes in fluid motion_ {{< br >}}{{< br >}} Circulation changes in inviscid and viscous, incompressible and compressible fluids, with uniform and non-uniform density, with conservative and non-conservative body forces. Applications to flows of uniform and non-uniform density, creation of circulation in a non-uniform density flow. {{< br >}}{{< br >}}  | &nbsp; |
+| 8 |  {{< br >}}{{< br >}} _Rotational flow descriptions in terms of vorticity and circulation_ {{< br >}}{{< br >}} Rotational flow in fluid components (nozzles, diffusers, blade rows). Relation between kinematic and thermodynamic properties in an inviscid, non-heat conducting flow; Crocco's theorem; applications in fluid machinery. Viscosity and the generation of vorticity at solid surfaces. Velocity field associated with a vorticity distribution, numerical methods based on the velocity-vorticity relationship, examples for two-dimensional and axisymmetric flow. {{< br >}}{{< br >}}  | &nbsp; |
+| 9 |  {{< br >}}{{< br >}} _Further applications of the concepts_ {{< br >}}{{< br >}} Mixing enhancement due to streamwise vorticity, lobed mixer nozzles. Fluid impulse and the generation of vorticity, streamwise vorticity structure and the evolution of a jet in crossflow. {{< br >}}{{< br >}}  | Concept quiz 2 |
+| {{< td-colspan 3 >}}**IV. Loss sources and loss accounting \[CT\]**{{< /td-colspan >}} |||
+| 10 |  {{< br >}}{{< br >}} _Introduction to concepts, metrics for loss_ {{< br >}}{{< br >}} Introduction: Appropriate metrics for loss {{< br >}}{{< br >}} Lost work, entropy generation, and irreversibility {{< br >}}{{< br >}} Losses in spatially uniform and non-uniform flow {{< br >}}{{< br >}}  | &nbsp; |
+| 11 |  {{< br >}}{{< br >}} _Boundary layer losses_ {{< br >}}{{< br >}} Entropy generation in boundary layers {{< br >}}{{< br >}} Entropy production and dissipation coefficient {{< br >}}{{< br >}} Estimation of turbomachinery blade profile losses {{< br >}}{{< br >}}  | Concept quiz 3 |
+| 12 |  {{< br >}}{{< br >}} _Mixing losses_ {{< br >}}{{< br >}} Introduction to mixing losses - Control volume analysis {{< br >}}{{< br >}} Mixing of two streams with non-uniform stagnation properties {{< br >}}{{< br >}} Mixing loss from fluid injection into a stream {{< br >}}{{< br >}} Irreversibility generation in mixing {{< br >}}{{< br >}}  | &nbsp; |
+| 13-14 |  {{< br >}}{{< br >}} _Averaging of a non-uniform flow - What is "The" loss_ {{< br >}}{{< br >}} Concepts: Area average, mass average and stream thrust average {{< br >}}{{< br >}} Application to a simple flow model {{< br >}}{{< br >}} Appropriate averages for a non-uniform flow, "averaging for a purpose" {{< br >}}{{< br >}} Boundary layer losses versus downstream mixing losses {{< br >}}{{< br >}}  | Concept quiz 4 |
+| 15 |  {{< br >}}{{< br >}} _Further aspects of mixing loss, examples, and applications_ {{< br >}}{{< br >}} Effect of pressure level on average properties and mixing losses {{< br >}}{{< br >}} Examples: Two-stream mixing, linear shear flow mixing in diffusers and nozzles, wake mixing {{< br >}}{{< br >}} Loss characterization in turbomachinery cascades {{< br >}}{{< br >}}  | &nbsp; |
+| &nbsp; | Mid-term oral exam | &nbsp; |
+| {{< td-colspan 3 >}}**V. Flow in rotating passages \[EG\]**{{< /td-colspan >}} |||
+| 16 |  {{< br >}}{{< br >}} _Useful concepts_ {{< br >}}{{< br >}} Coriolis and centrifugal forces in a rotating coordinate system {{< br >}}{{< br >}} Velocity fields in the inertial and the rotating coordinate systems {{< br >}}{{< br >}} Equations of motion in a rotating coordinate system {{< br >}}{{< br >}} Non-dimensional parameters in a rotating flow {{< br >}}{{< br >}} Conserved quantities in a steady rotating flow {{< br >}}{{< br >}} The role of the reduced static pressure {{< br >}}{{< br >}}  | &nbsp; |
+| 17 |  {{< br >}}{{< br >}} _Phenomena in flows where rotation dominates_ {{< br >}}{{< br >}} Conditions in which effects of rotation dominate {{< br >}}{{< br >}} The taylor-proudman theorem (two different perspectives) {{< br >}}{{< br >}} Viscous flows (ekman layers) on rotating surfaces {{< br >}}{{< br >}}  | Concept quiz 5 |
+| 18 |  {{< br >}}{{< br >}} _Rotating channel flow in constant area straight passages_ {{< br >}}{{< br >}} Two-dimensional inviscid flow in a rotating straight channel {{< br >}}{{< br >}} Fully developed flow in a rotating straight channel {{< br >}}{{< br >}} Boundary layers in rotating straight channels {{< br >}}{{< br >}}  | &nbsp; |
+| 19-20 |  {{< br >}}{{< br >}} _Rotating flow in turbomachinery passages_ {{< br >}}{{< br >}} Two-dimensional flow in rotating diffusing passages {{< br >}}{{< br >}} Three-dimensional flow and the "relative eddy" {{< br >}}{{< br >}} Changes in vorticity and circulation in rotating passages {{< br >}}{{< br >}} Generation of streamwise vorticity and secondary flow in rotating blade rows; radial migration of high temperature fluid in a turbine rotor {{< br >}}{{< br >}}  | Concept quiz 6 |
+| {{< td-colspan 3 >}}**VI. Unsteady flow \[CT\]**{{< /td-colspan >}} |||
+| 21-22 |  {{< br >}}{{< br >}} _Introduction - Useful concepts_ {{< br >}}{{< br >}} The inherent unsteadiness of fluid machinery {{< br >}}{{< br >}} The reduced Frequency {{< br >}}{{< br >}} Examples of unsteady flows and the role of the reduced frequency {{< br >}}{{< br >}} Stagnation pressure changes in an unsteady flow (the basic mechanism for turbomachinery operation!) {{< br >}}{{< br >}}  | &nbsp; |
+| 23-24 |  {{< br >}}{{< br >}} _Waves and oscillations in fluid systems_ {{< br >}}{{< br >}} Introduction to self-excited disturbances; shear layer instability {{< br >}}{{< br >}} Unsteady disturbances in fluid systems {{< br >}}{{< br >}} Lumped parameter modeling and transmission matrices for components and fluid systems {{< br >}}{{< br >}} Actuator disk models of fluid components {{< br >}}{{< br >}} System instabilities {{< br >}}{{< br >}} Waves and multi-dimensional disturbances in fluid systems {{< br >}}{{< br >}}  | Concept quiz 7 |
+| 25 |  {{< br >}}{{< br >}} _Elements of compressor stability modeling_ {{< br >}}{{< br >}} Low-order description of asymmetric flow in compressors, onset of rotating stall {{< br >}}{{< br >}}  | &nbsp; |
+| &nbsp; | Final oral exam |
